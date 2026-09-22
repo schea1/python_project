@@ -1,0 +1,4 @@
+username=gba6270beta
+password=P@ssw0rd123!
+api_token=FAKE-TOKEN-123456789
+mgmt_server=https://mgmt.local
